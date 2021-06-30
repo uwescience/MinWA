@@ -8,7 +8,7 @@ title: About
 Team Photo
 
 Individual Bios
-
+Lamar Foster is a DSSG Fellow
 Roles or Contributions (optional, only if it makes sense to your team)
 
 Where readers can find more details about the project, e.g. code, data, reports, etc.
