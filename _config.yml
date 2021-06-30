@@ -9,7 +9,7 @@ title:            Geography, equity, and the Seattle $15 minimum wage ordinance
 tagline:          ''
 description:      'A Data Science for Social Good 2021 fellowship project.'
 url:              "https://uwescience.github.io"
-baseurl:          "/DSSG-website-template"
+baseurl:          "/MinWA"
 
 
 paginate:         5
@@ -18,4 +18,4 @@ paginate:         5
 version:          0.0.0
 
 github:
-  repo:           https://github.com/uwescience/DSSG-website-template/
+  repo:           https://github.com/uwescience/MinWA/
