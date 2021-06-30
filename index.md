@@ -13,7 +13,7 @@ layout: default
 
 **Data Science Leads:** Jose Hernandez and Valentina Staneva
 
-**DSSG Fellows:** Lamar Foster, Delaney Glass, Christopher Salazar, Mahader Tamene
+**DSSG Fellows:** James Lamar Foster, Delaney Glass, Christopher Salazar, Mahader Tamene
 
 # Project Summary
 
