@@ -2,6 +2,9 @@
 layout: page
 title: About
 ---
+The [Data Science for Social Good summer program](https://escience.washington.edu/dssg/) brings together students, stakeholders, and data and domain researchers to work on focused, collaborative projects for societal benefit.
+
+Our team brought together 7 people from around the U.S., see below for who we are and what we do.
 
 Team Photo (coming soon)
 
@@ -35,7 +38,9 @@ Valentina Staneva is a Senior Data Scientist at University of Washington’s eSc
 
 [website](https://www.linkedin.com/in/james-lamar-foster-8005aab6/)
 
-<img src="jlf.jpg" width="200">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/jlf.jpg" width = "125">
+
+http://escience.washington.edu/wp-content/uploads/2021/05/Foster-James_Lamar-Headshot.jpg
 
 
 James Lamar Foster is a Ph.D. Candidate at The University of Washington’s Education Policy, Organizations, and Leadership program in the College of Education. His work investigates questions at the intersections of race, place, policy, and practice. His current research uses analytical approaches from critical and organizational theory in concert with computational methods to understand how school leaders create conditions to foster marginalized students’ social-emotional development. Lamar has been interested in the work of DSSG fellows since arriving at the University of Washington. Their focus on computational methods and social good piqued his interest, which prompted him to apply. He is particularly excited to work on the Geography, Equity, and the Seattle $15 minimum wage ordinance project, which explicitly focuses on equity, policy, and place. In his free time, Lamar enjoys spending time with friends and family and watching Manchester United F.C.
@@ -60,6 +65,7 @@ Mahader Tamene (she/her/hers) is a PhD student in the Division of Epidemiology a
 Mahader has worked in community health education, health research, program implementation and evaluation both domestically and abroad. She holds an MSc in global health and population from Harvard T.H. Chan School of Public Health and a BA in public policy and African/African-American studies from the University of Chicago.
 
 **Contact Us**
+
 Feel free to contact us via our respective websites for any feedback or questions.
 
 **Other Resources**
