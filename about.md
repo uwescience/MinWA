@@ -87,7 +87,7 @@ The code repository can be found here (coming soon)
 
 **Acknowledgements**
 
-The Minimum Wage team is thankful for the University of Washington's eScience Institute, Micron Foundation, and Washington State Department of Social and Health Services for their support.
+The Minimum Wage team is thankful for the support of the University of Washington's eScience Institute, Micron Foundation, and Washington State Department of Social and Health Services.
 
 
 
