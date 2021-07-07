@@ -36,12 +36,12 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 8px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 10px;
   }
 }
 
@@ -140,7 +140,7 @@ a.sidebar-nav-item:hover{
 
 .dropdown-container {
   display: none;
-  background-color: #fff;
+  background-color: #262626;
   padding-left: 1rem;
 }
 .fa-caret-down {
