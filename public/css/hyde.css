@@ -58,8 +58,7 @@ html {
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #85754d;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-size: 1rem;
+  
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -141,7 +140,7 @@ a.sidebar-nav-item:hover{
 
 .dropdown-container {
   display: none;
-  background-color: #262626;
+  background-color: #fff;
   padding-left: 1rem;
 }
 .fa-caret-down {
