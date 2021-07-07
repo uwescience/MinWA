@@ -5,21 +5,24 @@ title: Motivation
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/Gent_Photo.JPG">
 
-**Questions**
+**Research Question**
 
-This project will probe the hypothesis that the supply of low-wage labor dropped in Seattle over the years 2014-2016. Our DSSG team will track residential relocation (moves) relative to places of employment (jobs) in the Puget Sound. Questions include: 
+This project uses unique longitudinal data from 2010-2017 to examine the effects of Seattle’s 2015 $15 minimum wage ordinance on workers earning low wages in the Puget Sound while accounting for the impact of residential displacement. The following question guides this research: 
 
-1. Did lower earners move out of Seattle faster than higher earners? 
-2. How many workers earning at or near the minimum wage in 2014 moved out of the city over the subsequent years? 
-3. Was that rate of relocation faster than for earlier cohorts of low-paid workers? 
-4. How did low-wage workers’ commutes change? 
-5. For each low-paid position in the city, how many workers of similar wage rates live within reasonable commuting radii?
+To what extent did the minimum wage ordinance affect residential displacement, the demographic distribution of workers, housing price burden, and work commute burden in the Puget Sound region from 2010-2017?
 
+We are additionally interested in leveraging this unique data to understand and operationalize laborer well-being.
 
 **Background**
 
 Why is this important?
+
+In 2014, Seattle was the first major city to pass a \$15 minimum wage. Policymakers hoped that higher wages for low-paid workers would reduce inequality and poverty and make Seattle workers and their families better off. However, the phase-in of Seattle’s $15 wage coincided with another economic jolt—the rapid influx of tens of thousands of high-paid technology workers. 
+
+Increased housing prices and development, particularly of high-end housing, exacerbated by these new tech workers, have led to further gentrification. As a result, low-wage workers are being priced out of Seattle housing just as the raise to $15 took effect.
+
 What work has previously been done?
+
 
 **Stakeholders**
 
