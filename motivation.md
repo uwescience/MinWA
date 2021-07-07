@@ -23,13 +23,36 @@ Increased housing prices and development, particularly of high-end housing, exac
 
 What work has previously been done?
 
+Prior research on minimum wage changes within the United States has been sparse, in part due to the lack of minimum wage changes at the state and federal level, with the last federal minimum wage increase occurring in 2009 (cite). However, a majority of the research focuses on how minimum wage changes affect the supply and demand of laborers (cite). From an economic standpoint, there are mixed findings on whether the minimum wage increases supply/demand, with some research finding X and other research finding Y (cite).  
+
+However, beyond supply/demand arguments, there are critical considerations about the effects of minimum wage policy extending to housing, commute times, and demographic distribution of low-wage workers, which all may influence the real effects of a minimum wage policy. Low-wage workers are far more likely to be 30-50% rent-burdened compared to middle and high-income earners(cite). Notably, city, state, and federal minimum wage policies are directly relevant to income inequality and the ability to afford housing.  Scholarship investigating housing and income inequality finds that housing prices are rising faster than income across many American cities, leading to the displacement of low-wage workers (cite). As such, what has previously been noted as a 'housing crisis' or 'housing affordability crisis is, in earnest, an income inequality crisis (cite). Some politicians and advocates argue that investing in more affordable housing strategies such as restricting evictions, providing rental assistance, and offering housing subsidies, should be done in tandem with rising income to address these crises. Critically, both housing and income inequality must be considered in tandem to understand the efficacy of minimum wage policies on worker lives. 
+
+Advocates, community organizers, and community members in Seattle (occupied Duwamish land) have spent years documenting the effects of housing and income inequality on low-income families and indigenous, Black, and immigrant communities and communities of color more broadly. For example, [Community Inclusion & Equity in the Changing Public Realm](https://sites.uw.edu/gentrification/)  has explored how histories of colonialism, racism, and capitalism have materially affected people's lives. They have utilized qualitative and community-led narrative representations of gentrification happening across Seattle neighborhoods which further frames our interest in visualizing how the Seattle Minimum Wage Ordinance affected low-wage workers and how we can leverage large-scale quantitative data to understand worker wellbeing. 
+
 
 **Stakeholders**
 
 Who are the important stakeholders and what has your team done to take them into consideration?
+
+The project team has worked to align project objectives and deliverables with stakeholder needs.To that end, the team has engaged a variety of stakeholders including Washington State Department of Social and Health Services, concerned community members, Washington State Institutional Review Board, to understand the context of the data, the context of the topic, and the consequences of our work.
+
+
+
 What are the use cases you’re building for?
 
 **Ethics**
 
 What are the ethical questions you considered as a team?
 How are you addressing them in your work?
+
+
+
+
+
+
+
+
+
+
+
+
