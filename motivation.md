@@ -7,7 +7,7 @@ title: Motivation
 
 **Research Question**
 
-This project uses unique longitudinal data from 2010-2017 to examine the effects of Seattle’s 2015 $15 minimum wage ordinance on workers earning low wages in the Puget Sound while accounting for the impact of residential displacement. The following question guides this research: 
+This project uses unique longitudinal data (Washington Merged Longitudinal Administrative Data - WMLAD) from 2010-2017 to examine the effects of Seattle’s 2015 $15 minimum wage ordinance on workers earning low wages in the Puget Sound while accounting for the impact of residential displacement. The following question guides this research: 
 
 To what extent did the minimum wage ordinance affect residential displacement, the demographic distribution of workers, housing price burden, and work commute burden in the Puget Sound region from 2010-2017?
 
@@ -34,9 +34,13 @@ Advocates, community organizers, and community members in Seattle (occupied Duwa
 
 Who are the important stakeholders and what has your team done to take them into consideration?
 
-The project team has worked to align project objectives and deliverables with stakeholder needs.To that end, the team has engaged a variety of stakeholders including Washington State Department of Social and Health Services, concerned community members, Washington State Institutional Review Board, to understand the context of the data, the context of the topic, and the consequences of our work.
+The project team has worked to align project objectives and deliverables with stakeholder needs. To that end, the team has engaged a variety of stakeholders including Washington State Department of Social and Health Services, concerned community members, Washington State Institutional Review Board, to understand the context of the data, the context of the topic, and to inform the final deliverables for the project.
 
+We have identified the following use cases: 
 
+1. Geospatial visualizations of residential displacement that can be leveraged for advocacy purposes and 
+
+2. WMLAD data documentation and workflow protocols to inform future WMLAD researchers
 
 What are the use cases you’re building for?
 
