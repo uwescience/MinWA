@@ -5,8 +5,8 @@ permalink:        pretty
 
 
 # Setup
-title:            <font size="20"> Geography, equity, and the Seattle $15 minimum wage ordinance</font>
-tagline:          'Seattle Minimum Wage Study'
+title:            'Geography, equity, and the Seattle $15 minimum wage ordinance'
+tagline:          ''
 description:      'A Data Science for Social Good 2021 fellowship project.'
 url:              "https://uwescience.github.io"
 baseurl:          "/MinWA"
