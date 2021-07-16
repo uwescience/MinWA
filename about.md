@@ -6,7 +6,8 @@ The [Data Science for Social Good summer program](https://escience.washington.ed
 
 Our team brought together 7 people from around the U.S., see below for who we are and what we do.
 
-Team Photo (coming soon)
+Team Photo
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/minwa_team.png">
 
 **Individual Bios**
 
