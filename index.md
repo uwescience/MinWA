@@ -5,7 +5,7 @@ layout: default
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
 
 
-# Seattle $15 Minimum Wage Project
+# Geography, Equity, and the Seattle $15 Minimum Wage Ordinance
 
 ## The Team
 
