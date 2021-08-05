@@ -17,7 +17,6 @@ title: Methods
 - Imputed address and racial/ethnic dataset
 - Federal 2010 census data for the state of Washington
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -40,7 +39,7 @@ tr:nth-child(even) {
 </head>
 <body>
 
-<h2>HTML Table</h2>
+<h2>Data Sources</h2>
 
 <table>
   <tr>
