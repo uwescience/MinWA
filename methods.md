@@ -17,6 +17,63 @@ title: Methods
 - Imputed address and racial/ethnic dataset
 - Federal 2010 census data for the state of Washington
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>HTML Table</h2>
+
+<table>
+  <tr>
+    <th>State Agency</th>
+    <th>Key Information</th>
+    <th>Number of Observation</th>
+  </tr>
+  <tr>
+    <td>Employement Security Data (ESD)</td>
+    <td>Earnings, hours worked, job characteristics</td>
+    <td>106,704,421</td>
+  </tr>
+  <tr>
+    <td>Department of Social and Health Services</td>
+    <td>Race/Ethnicity, Sex, Age, Residential Address</td>
+    <td>700,000,000</td>
+  </tr>
+  <tr>
+    <td>Department of Health</td>
+    <td>Race/Ethnicity,Sex, Age, Residential Address</td>
+    <td>200,000,000</td>
+  </tr>
+  <tr>
+    <td>Housing and Urban Development</td>
+    <td>Fair Market Rent Prices</td>
+    <td>15,155</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+
 *What did you do to prepare the data?*
 
 Read background material on data and explored work done by previous researchers, and inspected the raw data
