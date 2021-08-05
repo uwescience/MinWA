@@ -10,13 +10,15 @@ title: Methods
 **Data**
 
 *What data sets are you using?*
-Employment Security Data (ESD)  2010-2017
-Geo encoded ESD 2010-2017
-HUD Small Area Fair Market Housing Prices 2010/2011 - 2017
-Imputed address and racial/ethnic dataset
-Federal 2010 census data for the state of Washington
+
+- Employment Security Data (ESD)  2010-2017
+- Geo encoded ESD 2010-2017
+- HUD Small Area Fair Market Housing Prices 2010/2011 - 2017
+- Imputed address and racial/ethnic dataset
+- Federal 2010 census data for the state of Washington
 
 *What did you do to prepare the data?*
+
 Read background material on data and explored work done by previous researchers, and inspected the raw data
 Cleaned, wrangled, and merged data frames/tables of relevant variables
 Just reading the data can take several hours!
@@ -27,21 +29,24 @@ PostgreSQL is also used to expedite data queries
 **Tools (aka “component specification”)**
 
 *What software packages, modules, etc. did you use?* 
-R is the main analysis tool that is being used
--Haven, Dplyr, ggplot2, Graphhopper, and any other packages that will be helpful from R
-Remote Git Server
-PostgreSQL
+
+R is the main analysis tool we used.
+- We utilized several tidyverse packages, such as haven, dplyr, tidyr, and ggplot2. 
+- Graphhopper is another R package we used to analyze commute burden
+- Remote Git Server was used throughout our collaborative workflow
+- PostgreSQL was used to merge and wrangle large datasets
 
 *What are the dependencies between these and how did you render them interoperable?*
-The many R packages used here were inherently interoperable. PostgreSQL also has an R Wrapper to read and write tables into the data frame for SQL queries. 
-Outside packages/software needs to be requested and approved to be used in the enclave
+
+The many R packages used here were inherently interoperable. PostgreSQL has an R Wrapper to read and write tables into the data frame for SQL queries. Because of the sensitivity of the data, outside packages/software were either approved or denied upon request from the enclave administrator. 
 
 **Processes**
 
 *What does your workflow or pipeline look like?* 
 - The demographic distribution of workers
-  - Develop a definition and operationalize low wage workers
-  - Disaggregate low wage workers by age, education, gender, and race
+  - Develop a definition and operationalize low-wage workers
+  - Disaggregate low-wage workers by age, education, gender, and race
+  - Visualize dstribution of low-wage workers 
 - Residential displacement (TBD) 
 - Housing price burden (housing wage)
   - Identify public data through HUD
@@ -71,7 +76,7 @@ Descriptive analyses allow us to describe and summarize the distribution of low-
 Overall, this project utilized exploratory data analysis 
 
   - The demographic distribution of workers, (WHO?)
-      - Look at the distribution of low wage workers by race, gender, and age across the Puget Sound 
+      - Look at the distribution of low-wage workers by race, gender, and age across the Puget Sound 
 
   - residential displacement, (WHAT?)
     - Aggregate measures:
