@@ -5,7 +5,7 @@ image:
 caption: Photo by Eden Constantino
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/methods.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/methods.jpeg">
 
 
 **Data**
