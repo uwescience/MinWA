@@ -2,8 +2,11 @@
 layout: page
 title: Motivation
 ---
-
+<figure>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/Gent_Photo.JPG">
+<figcaption>Photo by Joe Wolf as cited by blackpast.org</figcaption>
+</figure>
+
 
 **Research Question**
 
