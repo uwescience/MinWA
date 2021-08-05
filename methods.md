@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Methods
-image: 
-caption: Photo by Eden Constantino
 ---
-
+<figure>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/methods.jpeg">
-
+<figcaption>Photo by Eden Constantino</figcaption>
+</figure>
 
 **Data**
 
