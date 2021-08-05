@@ -15,13 +15,9 @@ We are additionally interested in leveraging this unique data to understand and 
 
 **Background**
 
-*Why is this important?*
-
 In 2014, Seattle was the first major city to pass a \$15 minimum wage. Policymakers hoped that higher wages for low-paid workers would reduce inequality and poverty and make Seattle workers and their families better off. However, the phase-in of Seattle’s $15 wage coincided with another economic jolt—the rapid influx of tens of thousands of high-paid technology workers. 
 
 Increased housing prices and development, particularly of high-end housing, exacerbated by these new tech workers, have led to further gentrification. As a result, low-wage workers are being priced out of Seattle housing just as the raise to $15 took effect.
-
-*What work has previously been done?*
 
 Prior research on minimum wage changes within the United States has been sparse, in part due to the lack of minimum wage changes at the state and federal level, with the last federal minimum wage increase occurring in 2009 (cite). However, a majority of the research focuses on how minimum wage changes affect the supply and demand of laborers (cite). From an economic standpoint, there are mixed findings on whether the minimum wage increases supply/demand, with some research finding X and other research finding Y (cite).  
 
@@ -31,8 +27,6 @@ Advocates, community organizers, and community members in Seattle (occupied Duwa
 
 
 **Stakeholders**
-
-*Who are the important stakeholders and what has your team done to take them into consideration?*
 
 The project team has worked to align project objectives and deliverables with stakeholder needs. To that end, the team has engaged a variety of stakeholders including Washington State Department of Social and Health Services, concerned community members, Washington State Institutional Review Board, to understand the context of the data, the context of the topic, and to inform the final deliverables for the project.
 
