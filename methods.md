@@ -7,15 +7,9 @@ title: Methods
 <figcaption>Photo by Eden Constantino</figcaption>
 </figure>
 
-**Data**
+**Data** 
 
-*What data sets are you using?*
-
-- Employment Security Data (ESD)  2010-2017
-- Geo encoded ESD 2010-2017
-- HUD Small Area Fair Market Housing Prices 2010/2011 - 2017
-- Imputed address and racial/ethnic dataset
-- Federal 2010 census data for the state of Washington
+Data was provided by several Washington State and federal agencies. Each dataset was subsetted for years 2010 to 2017. Due to missing data, race and address data were imputed using Bayesian Improved Surname Geocoding Algrorithm. This was necessary to examine the differences of low-wage workers by race. 
 
 <html>
 <head>
@@ -43,7 +37,7 @@ tr:nth-child(even) {
 
 <table>
   <tr>
-    <th>State Agency</th>
+    <th>Agency</th>
     <th>Key Information</th>
     <th>Number of Observation</th>
   </tr>
@@ -73,7 +67,7 @@ tr:nth-child(even) {
 </html>
 
 
-*What did you do to prepare the data?*
+*Data Preparation*
 
 Read background material on data and explored work done by previous researchers, and inspected the raw data
 Cleaned, wrangled, and merged data frames/tables of relevant variables
@@ -84,7 +78,7 @@ PostgreSQL is also used to expedite data queries
 
 **Tools (aka “component specification”)**
 
-*What software packages, modules, etc. did you use?* 
+*Software packages, modules, etc.* 
 
 R is the main analysis tool we used.
 - We utilized several tidyverse packages, such as haven, dplyr, tidyr, and ggplot2. 
@@ -92,13 +86,13 @@ R is the main analysis tool we used.
 - Remote Git Server was used throughout our collaborative workflow
 - PostgreSQL was used to merge and wrangle large datasets
 
-*What are the dependencies between these and how did you render them interoperable?*
+*Dependencies between software, packages and modules that were interoperable*
 
 The many R packages used here were inherently interoperable. PostgreSQL has an R Wrapper to read and write tables into the data frame for SQL queries. Because of the sensitivity of the data, outside packages/software were either approved or denied upon request from the enclave administrator. 
 
 **Processes**
 
-*What does your workflow or pipeline look like?* 
+*Workflow* 
 - The demographic distribution of workers
   - Develop a definition and operationalize low-wage workers
   - Disaggregate low-wage workers by age, education, gender, and race
@@ -120,14 +114,14 @@ The many R packages used here were inherently interoperable. PostgreSQL has an R
 
 **Analyses**
 
-*What approaches did you try that didn’t work?*
+*Trial and Error*
 
 Initially, we considered some inferential analysis but decided that given the large nature of this dataset as well as the underexplored nature of residential displacement in the context of policies addressing income inequality, descriptive analyses would be most fitting.
 
 Descriptive analyses allow us to describe and summarize the distribution of low-wage workers, and any patterns of residential displacement.  This can inform the types of inferential questions researchers ask, serving as the foundation for conducting further statistical data analysis. 
 
 
-*What analyses did you end up sticking with?*
+*Final Analyses*
 
 Overall, this project utilized exploratory data analysis 
 
@@ -159,13 +153,11 @@ Overall, this project utilized exploratory data analysis
 
 **Limitations**
 
-*What are the shortcomings of your approach?*
-
 - Because we are looking at descriptive statistics, we are limited by the claims we can make (particularly inferential claims)
 - Any claims we make as a team may be qualified with several assumptions given that we don’t fully understand all aspects of the data
 - The sensitive nature of the data will also limit our ability to provide a completely transparent description of all processes; other than to future WMLAD users
 
-*How can your work be improved?*
+*Potential Improvements*
 
 - Writing cleaner, more efficient code 
 - A set of clear and vetted procedures for version control within the enclave. The version control workflow has been an iterative process - trial and error.. 
