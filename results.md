@@ -13,7 +13,6 @@ What is your interpretation of those findings?
 What artifacts or outputs did you produce?
 How will these deliverables be used? 
 
-<iframe height="400" width="100%" frameborder="no" src="https://jlfoster116.shinyapps.io/FMR_2011_17/"> </iframe>
 
 
 **Outcomes**
