@@ -69,7 +69,7 @@ tr:nth-child(even) {
 </html>
 
 
-**Tools (aka “component specification”)**
+**Tools**
 
 *Software packages, modules, etc.* 
 
