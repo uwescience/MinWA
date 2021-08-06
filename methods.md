@@ -35,7 +35,7 @@ tr:nth-child(even) {
 </head>
 <body>
 
-<h2>Data Sources</h2>
+<h3>Data Sources</h3>
 
 <table>
   <tr>

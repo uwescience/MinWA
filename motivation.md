@@ -43,11 +43,14 @@ We have identified the two use cases:
 Primary ethical considerations of this project:
 
 - **Each Data Point is a Person** 
+
 This mindset has been a guide throughout our work. Having this mindset helps us deal with each data point with care. Furthermore, it influences our analytical and design choices. For example, we intentionally chose which level of detail to provide to ensure people's residential and work addresses were not discernable. Lastly, we also make sure not to contribute to the perpetuation of erasure of certain communities, such as Indigenous, Black, and immigrant people. We are intentional with labeling our variables and values, such as languages and races/ethnicities.
 
 - **Centering Equity in our Work**
+
 We understand that data is not objective and is laden with value and power. Centering equity in data encapsulates the notion that we do not perpetuate stereotypes, marginalization, and bias. While we could not speak with the individuals in our dataset; however, we were intentional about communicating with community stakeholders to hear their concerns and their desires for this project. 
 
 - **Misuse of the Data/Narrative**
+
 Political and nonpolitical actors vociferously debate whether to raise the minimum wage. As a result, bad actors can use the findings from our project to push a narrative that does not align with our findings. While we can't control how people use the information from this project, we do our due diligence to articulate the findings and implications of our work.
 
