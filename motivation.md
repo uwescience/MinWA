@@ -40,7 +40,7 @@ We have identified the two use cases:
 
 **Ethics**
 
-Primary ethical considerations of this project:
+Primary ethical considerations for this project:
 
 - **Each Data Point is a Person** 
 
