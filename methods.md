@@ -41,7 +41,7 @@ tr:nth-child(even) {
   <tr>
     <th>Agency</th>
     <th>Key Information</th>
-    <th>Number of Observation</th>
+    <th>Number of Observations</th>
   </tr>
   <tr>
     <td>Employement Security Data (ESD)</td>
