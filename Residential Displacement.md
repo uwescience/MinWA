@@ -5,4 +5,6 @@ title: Residential Displacement
 
 **Context**
 
+**Preparing Data**
+
 **Visualizations**

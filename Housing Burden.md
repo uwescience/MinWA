@@ -4,6 +4,8 @@ title: Housing Burden
 ---
 **Context**
 
+**Preparing Data**
+
 **Visualizations**
 
 *Fair Market Rent*
