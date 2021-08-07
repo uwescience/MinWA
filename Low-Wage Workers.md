@@ -19,9 +19,9 @@ library(dplyr)
 # Create new variables for individuals who have multiple jobs
 esd_2010_17 <- esd_2010_17 %>% 
 group_by(uniqueid) %>% 
-mutate(totalhours = na_if(totalhours, 9999)) %>% 
-mutate(totalwages_sum = sum(totalwageamount)) %>% 
-mutate(totalhours_sum = sum(totalhours))
+mutate(totalhours = na_if(totalhours, 9999),
+totalwages_sum = sum(totalwageamount),
+totalhours_sum = sum(totalhours))
 
 # Determine hourly Wage
 esd_hourly <- esd_2010_17 %>% 
@@ -32,14 +32,7 @@ hourlywage = totalwageamount/totalhours)
 # Create Low-wage Variable for people making less than $19/hour
 esd_hourly %>% 
 mutate(low_wage = 
-if_else(year == 2010 & hourlywage_sum >= 19, 0,
-if_else(year == 2011 & hourlywage_sum >= 19, 0,
-if_else(year == 2012 & hourlywage_sum >= 19, 0,
-if_else(year == 2013 & hourlywage_sum >= 19, 0,
-if_else(year == 2014 & hourlywage_sum >= 19, 0,
-if_else(year == 2015 & hourlywage_sum >= 19, 0,
-if_else(year == 2016 & hourlywage_sum >= 19, 0,
-if_else(year == 2017 & hourlywage_sum >= 19, 0)))))))))
+if_else(hourlywage_sum >= 19, 0,1))
 ```
 
 **Visualizations**
