@@ -48,7 +48,7 @@ This mindset has been a guide throughout our work. Having this mindset helps us 
 
 - **Centering Equity in our Work**
 
-We understand that data is not objective and is laden with value and power. Centering equity in data encapsulates the notion that we do not perpetuate stereotypes, marginalization, and bias. While we could not speak with the individuals in our dataset; however, we were intentional about communicating with community stakeholders to hear their concerns and their desires for this project. 
+We understand that data is not objective and is laden with value and power. Centering equity in data encapsulates the notion that we do not perpetuate stereotypes, marginalization, and bias. While we could not speak with the individuals in our dataset, we were intentional about communicating with community stakeholders to hear their concerns and their desires for this project. 
 
 - **Misuse of the Data/Narrative**
 
