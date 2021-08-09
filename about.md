@@ -84,8 +84,6 @@ Feel free to contact us via our respective websites for any feedback or question
 
 You can learn more about the project by clicking on this link [here](https://escience.washington.edu/2021-data-science-for-social-good-projects/)
 
-The code repository can be found here (coming soon)
-
 **Acknowledgements**
 
 The Minimum Wage team is thankful for the support of the University of Washington's eScience Institute, Micron Foundation, and Washington State Department of Social and Health Services.
