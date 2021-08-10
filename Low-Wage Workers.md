@@ -16,7 +16,7 @@ We determined the low-wage worker variable by summing individuals’ total wages
 
 Below is an example of the code we used to create the low-wage variable
 
-```
+```r
 library(dplyr)
 
 # Create new variables for individuals who have multiple jobs
