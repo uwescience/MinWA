@@ -25,7 +25,7 @@ totalhours_sum = sum(totalhours))
 
 # Determine hourly Wage
 esd_hourly <- esd_2010_17 %>% 
-filter(total_hours != 0 & totalhours_sum) %>% 
+filter(total_hours != 0, totalhours_sum) %>% 
 mutate(hourlywage_sum = totalwages_sum/totalhours_sum,
 hourlywage = totalwageamount/totalhours)
 
