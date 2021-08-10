@@ -9,7 +9,7 @@ This project examines the extent to which Seattle’s \$15 minimum wage policy a
 
 We determined the low-wage worker variable by summing individuals’ total wages and hours worked (including if they had multiple places of employment) and dividing their total wages by their total hours worked to determine their hourly wage. Next, we created a low-wage variable that marked an individual as low-wage if they made less than two times the Washington State minimum wage for that year or not low-wage if they made two times the Washington State minimum wage or more. 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/WA_minwage.gif" width = "200">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/WA_minwage.gif">
 
 
 **Preparing Data**
