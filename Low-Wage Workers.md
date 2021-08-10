@@ -29,7 +29,7 @@ filter(total_hours != 0 & totalhours_sum) %>%
 mutate(hourlywage_sum = totalwages_sum/totalhours_sum,
 hourlywage = totalwageamount/totalhours)
 
-# Create Low-wage Variable for people making less than $19/hour
+# Create Low-wage Variable for people making less than twice WA min wage
 esd_hourly %>% 
 mutate(low_wage = 
 if_else(year == 2010 & hourlywage_sum >= 8.55*2, 0,
@@ -39,7 +39,7 @@ if_else(year == 2013 & hourlywage_sum >= 9.19*2, 0,
 if_else(year == 2014 & hourlywage_sum >= 9.32*2, 0,
 if_else(year == 2015 & hourlywage_sum >= 9.47*2, 0,
 if_else(year == 2016 & hourlywage_sum >= 9.47*2, 0,
-if_else(year == 2017 & hourlywage_sum >= 11*2, 0)))))))))
+if_else(year == 2017 & hourlywage_sum >= 11*2, 0, 1)))))))))
 ```
 
 **Visualizations**
