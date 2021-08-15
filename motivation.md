@@ -10,9 +10,9 @@ title: Motivation
 
 **Research Question**
 
-This project uses the unique Washington Merged Longitudinal Administrative Data (WMLAD) from 2010-2017 to examine the effects Seattle’s $15 minimum wage ordinance has on workers earning low wages in the Puget Sound region while accounting for the impact of residential displacement. The following question guides this research:
+This project uses the unique Washington Merged Longitudinal Administrative Data (WMLAD) from 2010-2017 to examine the effects Seattle’s $15 minimum wage ordinance has on Seattke workers earning low wages in the Puget Sound region while accounting for the impact of residential displacement. The following question guides this research:
 
-To what extent did the minimum wage ordinance affect the demographic distribution of workers, residential displacement, housing price burden, and work commute burden in the Puget Sound region from 2010-2017?
+To what extent did the minimum wage ordinance affect the demographic distribution of Seattle workers, residential displacement, housing price burden, and work commute burden in the Puget Sound region from 2010-2017?
 
 We are additionally interested in leveraging this unique data to understand and operationalize laborer well-being.
 

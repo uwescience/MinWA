@@ -9,7 +9,7 @@ title: Methods
 
 **Data** 
 
-Data was provided by several Washington State agencies to create the Washington Merged Longitudinal Administrative Data (WMLAD); we also used federal data to help in our analysis. Each dataset was subsetted for years 2010 to 2017. Due to missing data, race and address data were imputed using Bayesian Improved Surname Geocoding Algrorithm. This was necessary to examine the differences of low-wage workers by race. 
+Data was provided by several Washington State agencies to create the Washington Merged Longitudinal Administrative Data (WMLAD); we also used federal data to help in our analysis. Each dataset was subsetted for years 2010 to 2017. After examining the  WMLAD data, it was revealed there were too many inaccuracies with the 2017 data. As a result, our analysis only examined years 2010 to 2016. Further, due to missing data, race and address data were imputed using Bayesian Improved Surname Geocoding Algrorithm. This was necessary to examine the differences of low-wage workers by race. 
 
 To prepare the data for analysis, we read background information of the data and reviewed previous minimum wage research. Further, we inspected the raw data then cleaned, wrangled, and merged the data frames/tables of relevant variables. PostgresSQL was used to expedite data queries. 
 
@@ -119,7 +119,7 @@ Descriptive analyses allow us to describe and summarize the distribution of low-
 This project utilized exploratory data analysis 
 
   - Demographic Distribution of Workers
-      - Combine ESD data from 2010-2017 
+      - Combine ESD data from 2010-2016 
       - Merge ESD data to imputed demographic data 
       - Create several low-wage variables based on different theories
       - Examine the distribution of low-wage workers of the different low-wage variables
@@ -128,14 +128,14 @@ This project utilized exploratory data analysis
 
   - Residential Displacement
       - Aggregate measures:
-        - Visualize the change in composition of low-wage workers disaggregated by race at the census tract from 2010-2017 
+        - Visualize the change in composition of low-wage workers disaggregated by race at the census tract from 2010-2016 
       - Individual-level measures:
-        - Examine distribution of the total number of moves from 2010-2017 disaggregated by race, gender, and age 
+        - Examine distribution of the total number of moves from 2010-2016 disaggregated by race, gender, and age 
         - Examine distribution of the number of different numbers of moves disaggregated by race, gender, age
 
   - Housing Price Burden
       - Rent price was 20,30,40,50,60 percent of monthly income, converted to hourly wage assuming 40/hrs per week per month
-      - Select years 2011, 2015, 2017 and 2 bedroom housing cost to make a 20-60% housing wage categories for rental price + hourly wage by zip code
+      - Select years 2011, 2015, 2016 and 2 bedroom housing cost to make a 20-60% housing wage categories for rental price + hourly wage by zip code
       - Visualize fair market rent distribution 
       - Use quarter 2 hourly wages to categorize people as housing burdened
       - Visualize who is more/less housing burdened geographic region
