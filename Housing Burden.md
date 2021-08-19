@@ -8,6 +8,17 @@ The WMLAD data does not include data regarding how much money workers are spendi
 
 **Preparing Data**
 
+Below we outline general steps we took to create these visuals. However, for full details please see our Github page for code. 
+
+- Find public HUD data, subset for WA state and clean data to import to enclave
+- Calculate changes in rent distributionsa cross time
+- Calculate housing wage variables (hourly wage when spending 30-60 % of hypothetical monthly income on rent)
+- Subset only years 2011,2015,2016 (before, at, after Minimum Wage Ordinance)
+- Subset to only one bedroom for estimating rent burden
+- Merge with subset of WMLAD data that includes geolocation ID's, zip code, unique ID, hourly wages, hours worked, and summed hours worked and wages for individuals with multiple jobs
+- Make data frames to make each map
+- Produce maps using shapefiles and ggplot2
+
 **Visualizations**
 
 *Fair Market Rent*
