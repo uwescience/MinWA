@@ -2,11 +2,11 @@
 layout: page
 title: Methods
 ---
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/methods_pic.jpeg">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/methods_pic.png">
 
 **Data** 
 
-Data was provided by several Washington State agencies to create the Washington Merged Longitudinal Administrative Data (WMLAD); we also used federal data to help in our analysis. Each dataset was subsetted for years 2010 to 2017. After examining the  WMLAD data, it was revealed there were too many inaccuracies with the 2017 data. As a result, our analysis only examined years 2010 to 2016. Further, due to missing data, race and address data were imputed using Bayesian Improved Surname Geocoding Algrorithm. This was necessary to examine the differences of low-wage workers by race. 
+Data was provided by several Washington State agencies to create the Washington Merged Longitudinal Administrative Data (WMLAD); we also used federal data to help in our analysis. Each dataset was subsetted for years 2010 to 2017. After examining the  WMLAD, it was revealed there were too many inaccuracies with the 2017 data. As a result, our analysis only examined years 2010 to 2016. Further, due to missing data, race and address data were imputed using Bayesian Improved Surname Geocoding Algrorithm. This was necessary to examine the differences of low-wage workers by race. 
 
 To prepare the data for analysis, we read background information of the data and reviewed previous minimum wage research. Further, we inspected the raw data then cleaned, wrangled, and merged the data frames/tables of relevant variables. PostgresSQL was used to expedite data queries. 
 
