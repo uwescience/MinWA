@@ -2,10 +2,7 @@
 layout: page
 title: Methods
 ---
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/methods.jpeg">
-<figcaption>Photo by Eden Constantino</figcaption>
-</figure>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/methods_pic.jpeg">
 
 **Data** 
 
