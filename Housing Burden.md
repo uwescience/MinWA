@@ -21,4 +21,7 @@ The web application below allows users to explore different regions across Washi
 
 The following visuals demonstrate the proportion of low wage workers in the Puget Sound Region who were rent burdened in 2011 and 2016
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/Final Presentation_Outline.jpg"> 
 
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/Final Presentation_Outline (1).jpg"> 
