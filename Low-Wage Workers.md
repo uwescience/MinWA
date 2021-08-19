@@ -47,3 +47,11 @@ if_else(year == 2017 & hourlywage_sum >= 11*2, 0, 1)))))))))
 
 **Visualizations**
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/donut_race.png">
+
+
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/anim_map.gif">
+
+
+
