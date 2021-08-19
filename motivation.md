@@ -12,7 +12,7 @@ title: Motivation
 
 To explore the effect of the Seattle $15 minimum wage ordinance in context of this tech boom on Seattle low-wage workers, we used the unique Washington Merged Longitudinal Administrative Data (WMLAD) to ask the following questions: 
 
-1. Who are low-wage workers and where do they live over time? 
+1. [Who are low-wage workers and where do they live over time](Low-Wage Workers.md)? 
 2. How much do they spend on housing?
 3. Are they moving over time?
 4. What are the changes in their work commute patterns?
