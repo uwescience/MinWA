@@ -53,7 +53,7 @@ James Lamar Foster is a Ph.D. Candidate at The University of Washington’s Educ
 
 ***Delaney Glass, DSSG Fellow*** 
 
-[website](https://www.linkedin.com/in/delaney-g-7a75981a9/)
+[website](https://dglass.netlify.app/)
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/delaney.jpg" width = "200">
 
