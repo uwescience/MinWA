@@ -9,60 +9,19 @@ Several Washington State agencies provided data to create the unique Washington 
 
 To identify trends before and after the Seattle minimum wage, we subsetted WMLAD for 2010 to 2016. Due to limitations of the imputation method, 2017 and 2018 were not used. To prepare the data for analysis, we read background information of the data and reviewed previous minimum wage research. Further, we inspected the raw data then cleaned, wrangled, and merged the data frames/tables of relevant variables. PostgresSQL was used to expedite data queries.
 
-<html>
-<head>
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
 
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
+**Washington Merged Longitudinal Administrative Data**
+| State Agency | Key Information | Time Period | Number of Individuals | 
+| ------------ | --------------- | ----------- | --------------------- |
+| Employment Security Data | Earnings, hours worked, job characteristics, UI receipt | 2000-2017 | 7,699,646 workers | 
+| Department of Social and Health Services; Health Care Authority | Program particitpation, benefits received, race/ethnicty, sex, age, residential address | 2010-2017 | 4,968,258 clients |
+| Department of Health | Race/ethnicity, sex, age, residential address | 2010-2016 | 896,558 parents | 
+| Secretary of State | Voting history, sex, age, residential address | 2006-2016 | 6,084,439 voters | 
+| Department of Licensing | Age, sex, residential address | 2005-2016 | 8,367,317 licenses | 
+| WA State Patrol | Arrest information | 2000-2018 | 777,416 persons arrested | 
 
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
-</head>
-<body>
 
-<h3>Data Sources</h3>
 
-<table>
-  <tr>
-    <th>Agency</th>
-    <th>Key Information</th>
-    <th>Number of Observations</th>
-  </tr>
-  <tr>
-    <td>Employement Security Data (ESD)</td>
-    <td>Earnings, hours worked, job characteristics</td>
-    <td>106,704,421</td>
-  </tr>
-  <tr>
-    <td>Department of Social and Health Services (DSHS)</td>
-    <td>Race/Ethnicity, Sex, Age, Residential Address</td>
-    <td>700,000,000</td>
-  </tr>
-  <tr>
-    <td>Department of Health</td>
-    <td>Race/Ethnicity,Sex, Age, Residential Address</td>
-    <td>200,000,000</td>
-  </tr>
-  <tr>
-    <td>Housing and Urban Development (HUD)</td>
-    <td>Fair Market Rent Prices</td>
-    <td>15,155</td>
-  </tr>
-</table>
-
-</body>
-</html>
 
 
 
