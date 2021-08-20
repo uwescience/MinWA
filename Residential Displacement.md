@@ -12,12 +12,12 @@ One way to address the limitations of population-based approaches is to use indi
 **Preparing Data**
 
 Here are the general steps we took to prepare this data for analysis:
-  • Reshape WMLAD address data, collected monthly from 2010 - 2017 into long format
-  • Create a variable of the lagged address, i.e. address from the previous month for each uniqueID in the dataset
-  • Calculate whether move occured by noting 1 if lagged address and current address are different, 0 if lagged address and current address are the same
-  • Aggregate move over all years 
-  • Subset data to only Seattle workers
-  • Merge data with WMLAD wages data, in order to see differences in moves by worker type (Low-wage vs Non low-wage)
-  • Build data frame for visualization of total moves
+  - Reshape WMLAD address data, collected monthly from 2010 - 2017 into long format
+  - Create a variable of the lagged address, i.e. address from the previous month for each uniqueID in the dataset
+  - Calculate whether move occured by noting 1 if lagged address and current address are different, 0 if lagged address and current address are the same
+  - Aggregate move over all years 
+  - Subset data to only Seattle workers
+  - Merge data with WMLAD wages data, in order to see differences in moves by worker type (Low-wage vs Non low-wage)
+  - Build data frame for visualization of total moves
 
 **Visualizations**
