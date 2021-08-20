@@ -10,7 +10,7 @@ Several Washington State agencies provided data to create the unique Washington 
 To identify trends before and after the Seattle minimum wage, we subsetted WMLAD for 2010 to 2016. Due to limitations of the imputation method, 2017 and 2018 were not used. To prepare the data for analysis, we read background information of the data and reviewed previous minimum wage research. Further, we inspected the raw data then cleaned, wrangled, and merged the data frames/tables of relevant variables. PostgresSQL was used to expedite data queries.
 
 
-**Washington Merged Longitudinal Administrative Data**
+
 <html>
 <head>
 <style>
@@ -33,7 +33,7 @@ tr:nth-child(even) {
 </head>
 <body>
 
-<h3>Data Sources</h3>
+<h3>Washington Merged Longitudinal Administrative Data</h3>
 
 <table>
   <tr>
@@ -92,7 +92,7 @@ tr:nth-child(even) {
 
 Rstudio was our main analysis tool.
 - We utilized several tidyverse packages, such as haven, dplyr, tidyr, and ggplot2. 
-- Graphhopper is another R package we used to analyze commute burden
+- Graphhopper is a Java tool with an R wrapper we used to analyze commute burden
 - Remote Git Server was used throughout our collaborative workflow
 - PostgreSQL was used to expedite merging and wrangling large datasets
 
@@ -101,6 +101,8 @@ Rstudio was our main analysis tool.
 The many R packages used here were inherently interoperable. PostgreSQL has an R Wrapper to read and write tables into the data frame for SQL queries. Because of the sensitivity of the data, outside packages/software were either approved or denied upon request from the enclave administrator. 
 
 **Enclave Workflow**
+
+Considering that our team was dealing with highly senstive information from various state agencies, we needed to ensure that our data handling practices respected the privacy of the individuals represented. An important step towards this was finding a location that would allow us to securely access the data. For this, a remote server (or enclave), hosted by the Center for Studies in Demography & Ecology at the University of Washington, is used to store the data with an added measure that it is disconnected from the internet. This ensures that no files or information within the enclave will be transferred via the internet. While this is a necessary precaution, it highly impacts a typical workflow in data science type projects. For instance, handling the several hundred gigabytes of WMLAD is limited by the processing power held by the enclave, where super computers or cloud services may be preferable. This challenged our team to find solutions for expediting data reads, writing efficient code, using git servers for collaboration, and recommending a workflow for future WMLAD users. The combination of working with WMLAD within the enclave puts forth this idea that we are not only working with Big Data,  but we are working with Big Sensitive Administrative Data. 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/methods_pic.png">
 
