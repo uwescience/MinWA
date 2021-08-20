@@ -21,3 +21,5 @@ Here are the general steps we took to prepare this data for analysis:
   - Build data frame for visualization of total moves
 
 **Visualizations**
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/Total_Moves_SeattleWorkers.png"> 
