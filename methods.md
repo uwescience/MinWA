@@ -11,16 +11,77 @@ To identify trends before and after the Seattle minimum wage, we subsetted WMLAD
 
 
 **Washington Merged Longitudinal Administrative Data**
-| State Agency | Key Information | Time Period | Number of Individuals | 
-| ------------ | --------------- | ----------- | --------------------- |
-| Employment Security Data | Earnings, hours worked, job characteristics, UI receipt | 2000-2017 | 7,699,646 workers | 
-| Department of Social and Health Services; Health Care Authority | Program particitpation, benefits received, race/ethnicty, sex, age, residential address | 2010-2017 | 4,968,258 clients |
-| Department of Health | Race/ethnicity, sex, age, residential address | 2010-2016 | 896,558 parents | 
-| Secretary of State | Voting history, sex, age, residential address | 2006-2016 | 6,084,439 voters | 
-| Department of Licensing | Age, sex, residential address | 2005-2016 | 8,367,317 licenses | 
-| WA State Patrol | Arrest information | 2000-2018 | 777,416 persons arrested | 
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
 
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
 
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h3>Data Sources</h3>
+
+<table>
+  <tr>
+    <th>State Agency</th>
+    <th>Key Information</th>
+    <th>Time Period</th>
+    <th>Number of Individuals</th>
+  </tr>
+  <tr>
+    <td>Employement Security Data</td>
+    <td>Earnings, hours worked, job characteristics, UI receipt</td>
+    <td>2000-2017</td>
+    <td>7,699,646 workers</td>
+  </tr>
+  <tr>
+    <td>Department of Social and Health Services; Health Care Authority</td>
+    <td>Program particitpation, benefits received, race/ethnicty, sex, age, residential address</td>
+    <td>2010-2017</td>
+    <td>4,968,258 clients</td>
+  </tr>
+  <tr>
+    <td>Department of Health</td>
+    <td>Race/ethnicity, sex, age, residential address</td>
+    <td>2010-2016</td>
+    <td>896,558 parents</td>
+  </tr>
+  <tr>
+    <td>Secretary of State</td>
+    <td>Voting history, sex, age, residential address</td>
+    <td>2006-2016</td>
+    <td>6,084,439 voters</td>
+  </tr>
+  <tr>
+    <td>Department of Licensing</td>
+    <td>Age, sex, residential address</td>
+    <td>2005-2016</td>
+    <td>8,367,317 licenses</td>
+  </tr>
+  <tr>
+    <td>WA State Patrol</td>
+    <td>Arrest information</td>
+    <td>2000-2018</td>
+    <td>777,416 persons arrested</td>
+  </tr>
+</table>
+
+</body>
+</html>
 
 
 
