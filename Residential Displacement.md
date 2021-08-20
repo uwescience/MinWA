@@ -23,3 +23,8 @@ Here are the general steps we took to prepare this data for analysis:
 **Visualizations**
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/Total_Moves_SeattleWorkers.png"> 
+
+This graph shows total number of moves for low-wage vs non low-wage Seattle workers from 2010 - 2017. What we see is that low-wage Seattle workers have a greater number of total moves, being more likely to move 4+ times Of note, the common cut offs for defining high mobility/residential instability within the literature are three or four moves, so these preliminary findings show some indication of displacement that is worth further exploration.
+
+
+
