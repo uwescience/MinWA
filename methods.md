@@ -92,7 +92,7 @@ tr:nth-child(even) {
 
 Rstudio was our main analysis tool.
 - We utilized several tidyverse packages, such as haven, dplyr, tidyr, and ggplot2. 
-- Graphhopper is a Java tool with an R wrapper we used to analyze commute burden
+- [Graphhopper](https://www.graphhopper.com/) is a Java tool with an R wrapper we used to analyze commute burden
 - Remote Git Server was used throughout our collaborative workflow
 - PostgreSQL was used to expedite merging and wrangling large datasets
 
