@@ -18,6 +18,8 @@ The data preparation builds from our definition of [low-wage workers](Low-Wage W
 
 Below are initial investigations of average commuting distances for differing wage brackets. This is to demonstrate that the results of an analysis may depend on a certain level of granularity for variables of interest. 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/Average Commutes.PNG">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/Ave_Com_Binary_wage.PNG">
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/Ave_Com_Multi_wage.PNG">
 
 
