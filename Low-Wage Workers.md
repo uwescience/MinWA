@@ -47,9 +47,15 @@ if_else(year == 2017 & hourlywage_sum >= 11*2, 0, 1)))))))))
 
 **Visualizations**
 
+The first visualization below indicates that the percentage of low-wage Seattle workers is proportionate to the Puget Sound region racial demographics (majority White). The second visualization is of Seattle’s low-wage workers in 2016. The graph illustrates that people born in the ’80s and ’90s make up most of the low-wage Seattle worker population.
+
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/donut_race.png">
 
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/Donut_age.png">
+
+
+From 2010 to 2016, the animated map shows that Seattle's low-wage workers become more prevalent as the years progress. Additionally, it appears that many of the low-wage workers begin to move from Seattle to the outskirts of King County and beyond.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/anim_map.gif">
 
