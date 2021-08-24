@@ -16,10 +16,22 @@
       <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/motivation' | prepend: site.baseurl }}">Motivation</a>
       <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/methods' | prepend: site.baseurl }}">Methods</a>
       
-      <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/Low-Wage Workers' | prepend: site.baseurl }}">Low-Wage Workers</a>
+      <!-- An example of a section with drop-down menu -->
+      <button class="dropdown-btn">Methods
+          <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-container">
+          <a href="{{ '/Low-Wage Workers' | prepend: site.baseurl }}">Low-Wage Workers</a><br/>
+          <a href="{{ '/Residential Displacement' | prepend: site.baseurl }}">Residential Displacement</a>
+          <a href="{{ '/Housing Burden' | prepend: site.baseurl }}">Housing Burden</a>
+          <a href="{{ '/Commute Burden' | prepend: site.baseurl }}">Commute Burden</a>
+        
+      </div>
+      
+      <!--<a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/Low-Wage Workers' | prepend: site.baseurl }}">Low-Wage Workers</a>
       <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/Residential Displacement' | prepend: site.baseurl }}">Residential Displacement</a>
       <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/Housing Burden' | prepend: site.baseurl }}">Housing Burden</a>
-      <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/Commute Burden' | prepend: site.baseurl }}">Commute Burden</a>
+      <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/Commute Burden' | prepend: site.baseurl }}">Commute Burden</a>-->
 
       
       <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/results' | prepend: site.baseurl }}">Results</a>
