@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Methods Overview
+title: Overview
 ---
 
 **Data** 
