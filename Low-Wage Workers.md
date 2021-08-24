@@ -51,7 +51,7 @@ The first visualization below indicates that the percentage of low-wage Seattle 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/donut_race.png">
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/donut_age.png">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/Donut_age.png">
 
 
 From 2010 to 2016, the animated map shows that Seattle's low-wage workers become more prevalent as the years progress. Additionally, it appears that many of the low-wage workers begin to move from Seattle to the outskirts of King County and beyond.
