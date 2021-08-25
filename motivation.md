@@ -19,7 +19,7 @@ To explore the effect of the Seattle $15 minimum wage ordinance in context of th
 
 **Background**
 
-In 2014, Seattle (occupied Duwamish land) was the first major city to pass a \$15 minimum wage. Policymakers hoped that higher wages for low-paid workers would reduce inequality and poverty and make Seattle workers and their families better off. However, Seattle’s $15 wage phase-in coincided with another economic jolt—the rapid influx of tens of thousands of high-paid technology workers. 
+In 2014, Seattle (occupied Coast Salish land) was the first major city to pass a \$15 minimum wage. Policymakers hoped that higher wages for low-paid workers would reduce inequality and poverty and make Seattle workers and their families better off. However, Seattle’s $15 wage phase-in coincided with another economic jolt—the rapid influx of tens of thousands of high-paid technology workers. 
 
 Increased housing prices and development, particularly high-end housing, exacerbated by these new tech workers, have led to further gentrification. As a result, low-wage workers are being priced out of Seattle housing just as the raise to $15 took effect.
 
